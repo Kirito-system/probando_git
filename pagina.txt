@@ -1,0 +1,34 @@
+<html>
+
+<head>
+<title>Mi primera pagna web! </title>
+</head>
+
+<body background="pngwing.com.png" bgcolor="ffe5f0"  text="black"> 
+
+<br> </br>
+<br> </br>
+<br> </br>
+<br> </br>
+<br> </br>
+<br> </br>
+<br> </br>
+<br> </br>
+<br> </br>
+<center><h1><font="black" face="Elephant"> Regalo de bodas</font></h1></center>
+<p><center><h3><font="black" face="Calibri"> Tres cosas no pueden faltar en nuestras vidas: Salud, Dinero y amor... </font></h3></center></p>
+<p><center><h3><font="black" face="Calibri"> Por suerte estamos sanos, y muy enamorados, asi que nos pueden ayudar con lo que nosa falta.</font></h3></center></p>
+<br> </br>
+
+<p><center><h3><font="black" face="Calibri"> Cuenta vista Coopeuch</font></h3></center></p>
+<p><center><h3><font="black" face="Calibri"> N° 200566720</font></h3></center></p>
+<p><center><h3><font="black" face="Calibri"> Elias Chamorro</font></h3></center></p>
+
+<br> </br>
+
+<center><img src="matri.png"></center> 
+<img src="monito.png" align="right" width="200" height="200">
+
+</body>
+
+</html>
